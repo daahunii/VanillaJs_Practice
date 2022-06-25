@@ -26,5 +26,8 @@
 
 // player2.sayhello("dahun");
 
-const age = prompt("How old are you?");
-console.log(age);
+// const age = prompt("How old are you?");
+// console.log(age);
+
+const title = document.getElementById("title");
+title.innerText = "I love God!";
